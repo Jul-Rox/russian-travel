@@ -1,0 +1,28 @@
+.footer {
+    padding: 24px 48px;
+    margin: 0;
+    padding-bottom: 24px;
+    min-width: 1184px;
+    display: flex;
+    justify-content: space-between;
+}
+
+/*
+@media (max-width: 928px) {
+    .footer {
+        padding: 24px 48px;
+    }    
+}
+
+@media (max-width: 720px) {
+    .footer {
+        padding: 24px 24px;
+    }    
+}
+
+@media (max-width: 186px) {
+    .footer {
+        padding: 24px 16px;
+    }    
+}
+*/

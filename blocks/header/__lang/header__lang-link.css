@@ -1,0 +1,22 @@
+.header__lang-link {
+    margin: 0;
+    padding: 0;
+    padding-right: 18px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 28px;
+    text-decoration: none;
+}
+
+.header__lang-link:last-child {
+    padding-right: 0px;
+}
+
+.header__lang-link:hover {
+    background-size: 100% 2px;
+  }
+
+  .header__lang-link:focus {
+    text-decoration-line: underline;
+  }
