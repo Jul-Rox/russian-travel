@@ -1,9 +1,15 @@
 .place {
-    margin-bottom: 80px;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 80px;
     display: grid;
     gap: 40px;
     grid-template-columns: minmax(460px, 1fr);
     grid-template-areas:
     "title website"
     "image paragraph";
+}
+
+.place:last-child {
+    padding-bottom: 0px ;
 }

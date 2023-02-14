@@ -6,3 +6,7 @@
     font-size: 18px;
     line-height: 22px;
 }
+
+.place__website_link:hover {
+    opacity: 0.8;
+}
