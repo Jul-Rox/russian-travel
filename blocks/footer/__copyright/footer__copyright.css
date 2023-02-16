@@ -2,4 +2,8 @@
     margin: 0;
     padding: 0;
     display: flex;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 10px;
 }
