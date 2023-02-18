@@ -2,13 +2,19 @@
     padding: 0 48px;
     margin: 0;
     padding-bottom: 25px;
-    min-width: 1184px;
+    max-width: 1184px;
     display: flex;
     justify-content: space-between;
     padding-top: 92px;
 }
 
-/*
+@media screen and (max-width: 1040px) {
+    .footer {
+        padding-top: 96px;
+    
+    }
+  }
+
 @media (max-width: 928px) {
     .footer {
         padding: 24px 48px;

@@ -10,3 +10,11 @@
     line-height: 36px;
     text-align: center;
 }
+
+
+@media screen and (max-width: 1040px) {
+    .lead__subtitle {
+        padding-top: 30px;
+        padding-bottom: 57px; 
+    }
+  }

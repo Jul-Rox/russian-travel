@@ -12,7 +12,7 @@
     background-size: cover;
     display: flex;
     flex-direction: column;
-    justify-content: center;  
+    justify-content: center;
 }
 
 .cover__background-link::before {

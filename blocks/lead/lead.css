@@ -1,24 +1,28 @@
 .lead {
-    padding: 0px 148px;
-    margin: 0 auto;
-    max-width: 984px;
+    margin: 0 148px;
+    
 }
-/*
-@media (max-width: 928px) {
+
+@media screen and (max-width: 1040px) {
+    .lead{
+    margin: 0 49px;
+    }
+  }
+
+@media screen and (max-width: 928px) {
     .lead {
-        padding: 0px 48px;
+        padding: 0px 49px;
     }    
 }
 
-@media (max-width: 768px) {
+@media screen and (max-width: 768px) {
     .lead {
         padding: 0px 0px;
     }    
 }
 
-@media (max-width: 320px) {
+@media screen and (max-width: 320px) {
     .lead {
         padding: 0px 0px;
     }    
 }
-*/
