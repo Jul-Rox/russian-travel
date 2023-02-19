@@ -17,3 +17,14 @@
     
     }
   }
+
+
+  @media screen and (max-width: 350px) {
+    .cover__subtitle  {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 14px;
+        line-height: 114%;
+        padding-top: 16px;
+    }    
+}

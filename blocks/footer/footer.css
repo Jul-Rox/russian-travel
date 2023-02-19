@@ -15,7 +15,7 @@
     }
   }
 
-@media (max-width: 928px) {
+@media (max-width: 925px) {
     .footer {
         padding: 24px 48px;
     }    
@@ -31,8 +31,14 @@
     }    
 }
 
-@media (max-width: 186px) {
-    .footer {
-        padding: 24px 16px;
+@media screen and (max-width: 350px) {
+    .footer  {
+        display: flex;
+        flex-direction: column;
+        padding-top: 64px;
+        padding-right:  16px;
+        padding-bottom: 24px;    
     }    
 }
+
+

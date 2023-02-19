@@ -5,3 +5,11 @@
     display: flex;
     gap: 19px;
 }
+
+.footer__links {   
+    gap: 32px;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-content: flex-start;
+    justify-content: flex-start;
+}

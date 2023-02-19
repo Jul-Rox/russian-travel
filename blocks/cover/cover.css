@@ -24,4 +24,14 @@
     }    
 }
 
+
+@media screen and (max-width: 350px) {
+    .cover {
+        margin: 0;
+        max-width: 320px;
+        max-height: 200px;
+        width: 100%;
+    }    
+}
+
   

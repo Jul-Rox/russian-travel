@@ -49,4 +49,18 @@
     }
     
 }
+
+
+@media screen and (max-width: 350px) {
+    .place {
+        padding-bottom: 50px;
+        gap: 32px;
+        grid-template-areas:
+        "title"
+        "website"
+        "image" 
+        "paragraph";
+        
+}
+}
   
