@@ -21,9 +21,13 @@
     }    
 }
 
-@media (max-width: 720px) {
+@media (max-width: 790px) {
     .footer {
-        padding: 24px 24px;
+        margin: 0;
+        padding-top: 88px;
+        padding-left:  24px;
+        padding-right:  24px;
+        padding-bottom: 24px;
     }    
 }
 

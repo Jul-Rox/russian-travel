@@ -4,9 +4,20 @@
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
-    line-height: 160%;
+    line-height: 163%;
 }
 
 .place__text:first-child {
     margin-bottom: 26px;
+}
+
+@media screen and (max-width: 790px) {
+    .place__text {
+        padding: 0;
+        margin: 0;
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 160%;
+    }    
 }

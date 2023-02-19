@@ -17,3 +17,13 @@
         padding-bottom: 50px; 
     }
   }
+
+
+  @media screen and (max-width: 790px) {
+    .header {
+        padding-left: 24px;
+        padding-top: 28px;
+        padding-right: 24px;
+        padding-bottom: 48px;
+    }    
+}

@@ -5,5 +5,11 @@
     font-style: normal;
     font-weight: 400;
     font-size: 14px;
-    line-height: 24px;
+    line-height: 140%;
+}
+
+@media screen and (max-width: 790px) {
+    .lead__caption {
+        padding: 0 25px;
+    }    
 }

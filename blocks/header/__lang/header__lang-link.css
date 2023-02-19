@@ -5,7 +5,7 @@
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
-    line-height: 38px;
+    line-height: 117%;
     text-decoration: none;
 }
 
@@ -20,3 +20,5 @@
   .header__lang-link:focus {
     text-decoration-line: underline;
   }
+
+
