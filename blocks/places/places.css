@@ -5,7 +5,21 @@
     max-width: 984px;
 }
 
+@media screen and (max-width: 1111px) {
+    .places {
+        padding: 88px 49px;
+    
+    }
+  } 
+
 @media screen and (max-width: 1040px) {
+    .places {
+        padding: 88px 49px;
+    
+    }
+  } 
+
+  @media screen and (max-width: 925px) {
     .places {
         padding: 88px 49px;
     

@@ -27,6 +27,17 @@
     
   }
 
+  @media screen and (max-width: 925px) {
+    .place {
+        padding-bottom: 72px;
+        gap: 45px 28px;
+        grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));     
+    }   
+    .place:last-child {
+        padding-bottom: 0px ;
+    }
+}
+
   @media screen and (max-width: 790px) {
     .place {
         padding-bottom: 72px;
