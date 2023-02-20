@@ -5,7 +5,11 @@
     line-height: 112%;
     text-decoration: none;
 }
-  
+
+.footer__link:hover {
+    opacity: 0.8;
+}
+
 
 @media screen and (max-width: 709px) {
     .footer__link  {
