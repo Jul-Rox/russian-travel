@@ -32,7 +32,13 @@
     }    
 }
 
-
+@media screen and (max-width: 540px) { 
+    .cover {
+        margin: 0;
+        max-height: 300px;
+        width: 100%;
+    }    
+}
 
 @media screen and (max-width: 350px) { 
     .cover {
