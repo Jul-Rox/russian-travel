@@ -53,6 +53,7 @@
 
 @media screen and (max-width: 350px) {
     .place {
+        grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
         padding-bottom: 50px;
         gap: 32px;
         grid-template-areas:
