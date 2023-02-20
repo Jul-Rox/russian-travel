@@ -6,6 +6,15 @@
     height: 740px; 
 }
 
+@media screen and (max-width: 1250px) {
+    .cover {
+        margin: 0;
+        max-width: 1250px;
+        width: 100%;
+    }
+  }
+
+
 @media screen and (max-width: 1040px) {
     .cover {
         margin: 0;
@@ -21,6 +30,7 @@
         width: 100%;
     }    
 }
+
 
 
 @media screen and (max-width: 350px) {

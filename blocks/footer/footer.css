@@ -23,6 +23,7 @@
 
 @media (max-width: 790px) {
     .footer {
+        display: flex;
         margin: 0;
         padding-top: 88px;
         padding-left:  24px;
@@ -30,6 +31,17 @@
         padding-bottom: 24px;
     }    
 }
+
+@media screen and (max-width: 709px) {
+    .footer  {
+        display: flex;
+        flex-direction: column;
+        padding-top: 64px;
+        padding-right:  16px;
+        padding-bottom: 24px;    
+    }    
+}
+
 
 @media screen and (max-width: 350px) {
     .footer  {

@@ -9,7 +9,23 @@
     text-align: center;
 }
 
+@media screen and (max-width: 709px) {
+    .lead__title {
+        font-style: normal;
+        font-weight: 900;
+        font-size: 50px;
+        line-height: 104%;
+    }    
+}
 
+@media screen and (max-width: 370px) {
+    .lead__title {
+        font-style: normal;
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 110%;
+    }    
+}
 
 @media screen and (max-width: 350px) {
     .lead__title {

@@ -8,6 +8,15 @@
     
 }
 
+@media screen and (max-width: 709px) {
+    .intro__title {
+        font-style: normal;
+        font-weight: 900;
+        font-size: 40px;
+        line-height: 109%;
+    }    
+}
+
 @media screen and (max-width: 350px) {
     .intro__title {
         font-style: normal;

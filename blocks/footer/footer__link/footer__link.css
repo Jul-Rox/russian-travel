@@ -5,7 +5,16 @@
     line-height: 112%;
     text-decoration: none;
 }
-   
+  
+
+@media screen and (max-width: 709px) {
+    .footer__link  {
+        font-style: normal;
+        font-weight: 400;
+        font-size: 24px;
+        line-height: 100%; 
+    }    
+}
 
 @media screen and (max-width: 350px) {
     .footer__link  {
@@ -15,3 +24,4 @@
         line-height: 100%; 
     }    
 }
+
