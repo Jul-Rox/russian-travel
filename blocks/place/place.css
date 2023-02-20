@@ -12,7 +12,7 @@
 }
 
 .place:last-child {
-    padding-bottom: 0px ;
+    padding-bottom: 0px;
 }
 
 
@@ -22,7 +22,7 @@
         gap: 48px 32px; 
     }
     .place:last-child {
-        padding-bottom: 0px ;
+        padding-bottom: 0px;
     }
     
   }
@@ -34,7 +34,7 @@
         grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));     
     }   
     .place:last-child {
-        padding-bottom: 0px ;
+        padding-bottom: 0px;
     }
 }
 
