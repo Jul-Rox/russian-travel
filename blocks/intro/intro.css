@@ -3,7 +3,7 @@
     padding: 0;
     max-width: 690px;
     padding-left: 148px;
-    padding-top: 89px;
+    padding-top: 90px;
     padding-bottom: 92px;
 }
 
@@ -13,16 +13,16 @@
     }
   }
 
-  
+
 @media screen and (max-width: 790px) {
     .intro {
         padding: 89px 15px;
-    }    
+    }
 }
 
 @media screen and (max-width: 350px) {
     .intro {
         padding-top:  64px;
         padding-bottom: 64px;
-    }    
+    }
 }

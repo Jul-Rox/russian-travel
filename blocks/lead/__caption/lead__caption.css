@@ -1,6 +1,7 @@
 .lead__caption {
     margin: 0;
     padding: 0;
+    padding-top: 6px;
     max-width: 160px;
     font-style: normal;
     font-weight: 400;
@@ -13,11 +14,11 @@
 @media screen and (max-width: 790px) {
     .lead__caption {
         padding: 0 25px;
-    }    
+    }
 }
 
 @media screen and (max-width: 350px) {
     .lead__caption {
         padding: 0 16px;
-    }    
+    }
 }

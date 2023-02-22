@@ -8,8 +8,8 @@
 
 
 @media screen and (max-width: 709px){
-    .footer__links {   
-        gap: 32px;
+    .footer__links {
+        gap: 30px;
         flex-wrap: wrap;
         flex-direction: column;
         align-content: flex-start;
@@ -18,7 +18,7 @@
 }
 
 @media screen and (max-width: 350px){
-    .footer__links {   
+    .footer__links {
         gap: 32px;
         flex-wrap: wrap;
         flex-direction: column;

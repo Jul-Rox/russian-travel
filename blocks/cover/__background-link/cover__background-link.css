@@ -1,4 +1,4 @@
-.cover__background-link { 
+.cover__background-link {
     position: relative;
     margin: 0 auto;
     top: 0;
@@ -12,7 +12,7 @@
     background-size: cover;
     display: flex;
     flex-direction: column;
-    justify-content: center; 
+    justify-content: center;
     margin: 0 48px;
     max-width: 1184px;
     min-height: 740px;
@@ -32,24 +32,24 @@
 }
 
 
-.cover__background-link:hover::before {  
+.cover__background-link:hover::before {
     opacity: 0.8;
 }
 
-
+/*
 @media screen and (max-width: 1250px) {
     .cover__background-link  {
         margin: 0;
-        max-width: 1250px;
+        min-height: 1250px;
         width: 100%;
     }
-  }
+  } */
 
 
 @media screen and (max-width: 1040px) {
     .cover__background-link  {
         margin: 0;
-        max-height: 640px;
+        min-height: 640px;
         width: 100%;
     }
   }
@@ -57,25 +57,24 @@
   @media screen and (max-width: 790px) {
     .cover__background-link  {
         margin: 0;
-        max-height: 480px;
+        min-height: 480px;
         width: 100%;
-    }    
+    }
 }
 
-@media screen and (max-width: 540px) { 
+@media screen and (max-width: 540px) {
     .cover__background-link  {
         margin: 0;
-        max-height: 300px;
+        min-height: 300px;
         width: 100%;
-    }    
+    }
 }
 
-@media screen and (max-width: 350px) { 
+@media screen and (max-width: 350px) {
     .cover__background-link  {
         margin: 0;
-        max-height: 200px;
+        min-height: 200px;
         width: 100%;
-    }    
+    }
 }
 
-  
