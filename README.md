@@ -9,6 +9,6 @@
 * grid;
 * media query.
 
-* [Ссылка на проект GitHub](https://github.com/Jul-Rox/russian-travel.git)
+* [Ссылка на проект GitHub](https://jul-rox.github.io/russian-travel/index.html )
 
 
