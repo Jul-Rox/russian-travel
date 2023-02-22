@@ -14,15 +14,21 @@
     margin-right: 0px;
 }
 
+.header__lang-link:first-child {
+  text-decoration-line: underline;
+}
+
+
 .header__lang-link:hover {
     background-size: 100% 2px;
     opacity: 0.8;
   }
 
+/*
   .header__lang-link:focus {
     text-decoration-line: underline;
   }
-
+*/
 
   @media screen and (max-width: 350px) {
     .header__lang-link {
@@ -30,5 +36,5 @@
         font-weight: 400;
         font-size: 18px;
         line-height: 111%;
-    }    
+    }
 }
