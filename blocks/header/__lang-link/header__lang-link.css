@@ -1,20 +1,22 @@
 .header__lang-link {
     margin: 0;
     padding: 0;
-    padding-right: 18px;
+    margin-right: 18px;
     font-style: normal;
     font-weight: 400;
     font-size: 24px;
     line-height: 117%;
     text-decoration: none;
+    width: fit-content;
 }
 
 .header__lang-link:last-child {
-    padding-right: 0px;
+    margin-right: 0px;
 }
 
 .header__lang-link:hover {
     background-size: 100% 2px;
+    opacity: 0.8;
   }
 
   .header__lang-link:focus {
