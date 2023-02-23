@@ -7,14 +7,14 @@
     font-size: 18px;
     line-height: 122%;
     text-align: center;
-    z-index: 5;  
-      
+    z-index: 5;
+
 }
 
 @media screen and (max-width: 1040px) {
     .cover__subtitle {
         padding-top: 32px;
-    
+
     }
   }
 
@@ -25,15 +25,16 @@
         font-size: 14px;
         line-height: 114%;
         padding-top: 16px;
-    }    
+    }
 }
 
   @media screen and (max-width: 350px) {
     .cover__subtitle  {
+        padding-top: 20px;
         font-style: normal;
         font-weight: 400;
         font-size: 14px;
         line-height: 114%;
-        padding-top: 16px;
-    }    
+        max-width: 288px;
+    }
 }

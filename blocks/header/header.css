@@ -13,7 +13,7 @@
 
 @media screen and (max-width: 1040px) {
     .header {
-        padding-bottom: 50px; 
+        padding-bottom: 50px;
     }
   }
 
@@ -24,15 +24,15 @@
         padding-top: 28px;
         padding-right: 24px;
         padding-bottom: 48px;
-    }    
+    }
 }
 
 
-@media screen and (max-width: 350px) {
+@media screen and (max-width: 390px) {
     .header {
         padding-left: 16px;
         padding-top: 16px;
         padding-right: 16px;
-        padding-bottom: 40px;
-    }    
+        padding-bottom: 50px;
+    }
 }
