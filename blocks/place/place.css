@@ -19,20 +19,19 @@
 @media screen and (max-width: 1040px) {
     .place {
         grid-template-columns: repeat(auto-fit, minmax(440px, 1fr));
-        gap: 48px 32px; 
     }
     .place:last-child {
         padding-bottom: 0px;
     }
-    
+
   }
 
   @media screen and (max-width: 925px) {
     .place {
         padding-bottom: 72px;
         gap: 45px 28px;
-        grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));     
-    }   
+        grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    }
     .place:last-child {
         padding-bottom: 0px;
     }
@@ -42,12 +41,12 @@
     .place {
         padding-bottom: 72px;
         gap: 45px 28px;
-        grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));     
-    }   
+        grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
+    }
     .place:last-child {
         padding-bottom: 0px;
     }
-    
+
 }
 
 @media screen and (max-width: 719px) {
@@ -58,9 +57,9 @@
         grid-template-areas:
         "title"
         "website"
-        "image" 
+        "image"
         "paragraph";
-        
+
     }
 }
 
@@ -73,9 +72,9 @@
         grid-template-areas:
         "title"
         "website"
-        "image" 
+        "image"
         "paragraph";
-        
+
     }
 }
 
@@ -88,9 +87,9 @@
         grid-template-areas:
         "title"
         "website"
-        "image" 
+        "image"
         "paragraph";
-        
+
     }
 }
 
@@ -102,9 +101,8 @@
         grid-template-areas:
         "title"
         "website"
-        "image" 
+        "image"
         "paragraph";
-        
+
     }
 }
-  
