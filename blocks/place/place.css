@@ -67,8 +67,6 @@
     .place {
         grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
         padding-left: 0;
-        padding-bottom: 50px;
-        gap: 32px;
         grid-template-areas:
         "title"
         "website"
@@ -81,9 +79,6 @@
 @media screen and (max-width: 378px) {
     .place {
         grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
-        padding-left: 0;
-        padding-bottom: 50px;
-        gap: 32px;
         grid-template-areas:
         "title"
         "website"
@@ -96,8 +91,10 @@
 @media screen and (max-width: 350px) {
     .place {
         grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+        padding: 0;
         padding-bottom: 85px;
-        gap: 32px;
+        gap: 33px;
+
         grid-template-areas:
         "title"
         "website"
