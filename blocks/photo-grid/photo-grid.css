@@ -9,13 +9,13 @@
 
 @media screen and (max-width: 790px) {
     .photo-grid {
-        padding: 0 24px;
-    }    
+        padding: 0 25px;
+    }
 }
 
 @media screen and (max-width: 350px) {
     .photo-grid {
         padding: 0 16px;
         gap: 8px;
-    }   
+    }
 }

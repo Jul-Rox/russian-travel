@@ -14,8 +14,8 @@
         font-weight: 900;
         font-size: 42px;
         line-height: 110%;
-    }  
-  } 
+    }
+  }
 
 @media screen and (max-width: 790px) {
     .place__title {
@@ -23,7 +23,8 @@
         font-weight: 900;
         font-size: 42px;
         line-height: 110%;
-    }    
+        padding: 0 10px;
+    }
 }
 
 
@@ -34,5 +35,5 @@
         font-size: 32px;
         line-height: 109%;
         padding: 0 16px;
-    }   
+    }
 }
