@@ -29,9 +29,9 @@
 
   @media screen and (max-width: 790px) {
     .places {
-        padding: 0 24px;
+        padding-left:  24px;
+        padding-right:  24px;
         padding-top: 90px;
-        padding-bottom: 70px;
     }
 }
 
