@@ -5,10 +5,12 @@
     font-weight: 400;
     font-size: 18px;
     line-height: 163%;
+    margin-bottom: 26px;
 }
 
-.place__text:first-child {
-    margin-bottom: 26px;
+.place__text:last-child {
+  margin-bottom: 0;
+
 }
 
 @media screen and (max-width: 925px) {
@@ -19,9 +21,9 @@
         font-weight: 400;
         font-size: 16px;
         line-height: 160%;
-    
+
     }
-  } 
+  }
 
 @media screen and (max-width: 790px) {
     .place__text {
@@ -31,11 +33,11 @@
         font-weight: 400;
         font-size: 16px;
         line-height: 160%;
-    }    
+    }
 }
 
 @media screen and (max-width: 350px) {
     .place__text {
         padding: 0 16px;
-    }   
+    }
 }
