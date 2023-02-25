@@ -14,8 +14,6 @@
 
 @media screen and (max-width: 709px) {
     .footer__link  {
-        font-style: normal;
-        font-weight: 400;
         font-size: 26px;
         line-height: 106%;
     }
@@ -23,8 +21,6 @@
 
 @media screen and (max-width: 350px) {
     .footer__link  {
-        font-style: normal;
-        font-weight: 400;
         font-size: 24px;
         line-height: 100%;
     }
