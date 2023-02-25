@@ -39,5 +39,6 @@
 @media screen and (max-width: 350px) {
     .place__text {
         padding: 0 16px;
+        margin-bottom: 25px;
     }
 }

@@ -67,23 +67,12 @@
     .place {
         grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
         padding-left: 0;
-        grid-template-areas:
-        "title"
-        "website"
-        "image"
-        "paragraph";
-
     }
 }
 
 @media screen and (max-width: 378px) {
     .place {
         grid-template-columns: repeat(auto-fit, minmax(310px, 1fr));
-        grid-template-areas:
-        "title"
-        "website"
-        "image"
-        "paragraph";
 
     }
 }
@@ -91,15 +80,8 @@
 @media screen and (max-width: 350px) {
     .place {
         grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
-        padding: 0;
-        padding-bottom: 85px;
+        padding-bottom: 50px;
         gap: 33px;
-
-        grid-template-areas:
-        "title"
-        "website"
-        "image"
-        "paragraph";
 
     }
 }

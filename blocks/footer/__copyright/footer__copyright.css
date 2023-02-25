@@ -10,12 +10,12 @@
 
 @media screen and (max-width: 709px) {
     .footer__copyright  {
-        padding-top: 48px;   
-    }    
+        padding-top: 48px;
+    }
 }
 
 @media screen and (max-width: 350px) {
     .footer__copyright  {
-        padding-top: 48px;   
-    }    
+        padding-top: 47px;
+    }
 }

@@ -2,8 +2,6 @@
     font-family: "Inter", "Arial", sans-serif;
     max-width: 1280px;
     margin: 0 auto;
-    overflow: hidden;
-    overflow-y: scroll;
     background: #2A2C2F;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
@@ -12,3 +10,6 @@
     -moz-text-size-adjust: 100%;
   }
 
+  /*
+    overflow: hidden;
+    overflow-y: scroll;*/
