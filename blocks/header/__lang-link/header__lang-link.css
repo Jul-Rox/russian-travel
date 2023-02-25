@@ -14,10 +14,6 @@
     margin-right: 0px;
 }
 
-.header__lang-link:first-child {
-  text-decoration-line: underline;
-}
-
 
 .header__lang-link:hover {
     opacity: 0.8;
